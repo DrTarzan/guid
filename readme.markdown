@@ -11,13 +11,16 @@
 ## USAGE				
 * Then you can generate new guides from the command prompt by:
    use the following commands:
+   
    guid
+   
    - Provides the following results:
    New GUID
    ====================================
    429bbba9-ad73-4374-abd2-4dc6e8f6da87
 
    guid /[count] -> Where count is an integer
+   
    - Provides the following results:
    New GUID's
    ====================================
@@ -25,6 +28,7 @@
    90358a6b-0c2d-44b0-9746-717bd8dcd14a
 
    guid -[count] -> Where count is an integer
+   
    - Provides the following results:
    New GUID's
    ====================================
