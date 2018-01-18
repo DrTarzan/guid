@@ -20,7 +20,7 @@ use the following commands:
 
 	* **guid /[count]** -> Where count is an integer
 		* Provides the following results:
-			<div style="border: 1px solid #000">
+			<div style="border: 1px solid; width: 300px;">
 				<p>New GUID's </br>
 				==================================== </br>
 				1a07ca6a-99ee-4e88-a816-c641ed735e71 </br>
