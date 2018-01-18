@@ -12,7 +12,7 @@
 * Then you can generate new guides from the command prompt by:
 use the following commands:
 
-	**guid
+	**guid**
 	* Provides the following results:
 		* New GUID
 		* ====================================
