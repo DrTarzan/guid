@@ -14,25 +14,27 @@ use the following commands:
 
 	* **guid**
 		* Provides the following results:
+		<pre>
 			- New GUID
 			- ====================================
 			- 429bbba9-ad73-4374-abd2-4dc6e8f6da87
-
+		</pre>
 	* **guid /[count]** -> Where count is an integer
 		* Provides the following results:
-			<pre>
-				New GUID's
-				====================================
-				1a07ca6a-99ee-4e88-a816-c641ed735e71
-				90358a6b-0c2d-44b0-9746-717bd8dcd14a
-			</pre>
+		<pre>
+			New GUID's
+			====================================
+			1a07ca6a-99ee-4e88-a816-c641ed735e71
+			90358a6b-0c2d-44b0-9746-717bd8dcd14a
+		</pre>
 	* **guid -[count]** -> Where count is an integer
 		* Provides the following results:
+		<pre>
 			- New GUID's
 			- ====================================
 			- 1a07ca6a-99ee-4e88-a816-c641ed735e71
 			- 90358a6b-0c2d-44b0-9746-717bd8dcd14a
-
+		</pre>
 	* **guid ?**
 		* Provides a list of all commands
 
