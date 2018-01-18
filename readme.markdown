@@ -21,10 +21,10 @@ use the following commands:
 	* **guid /[count]** -> Where count is an integer
 		* Provides the following results:
 			<div>
-				<p>New GUID's</p>
-				<p>====================================</p>
-				<p>1a07ca6a-99ee-4e88-a816-c641ed735e71</p>
-				<p>90358a6b-0c2d-44b0-9746-717bd8dcd14a</p>
+				<p>New GUID's \n
+				==================================== \n
+				1a07ca6a-99ee-4e88-a816-c641ed735e71 \n
+				90358a6b-0c2d-44b0-9746-717bd8dcd14a</p>
 			</div>
 	* **guid -[count]** -> Where count is an integer
 		* Provides the following results:
