@@ -20,10 +20,10 @@ use the following commands:
 
 	* **guid /[count]** -> Where count is an integer
 		* Provides the following results:
-			- New GUID's
-			- ====================================
-			- 1a07ca6a-99ee-4e88-a816-c641ed735e71
-			- 90358a6b-0c2d-44b0-9746-717bd8dcd14a
+			New GUID's
+			====================================
+			1a07ca6a-99ee-4e88-a816-c641ed735e71
+			90358a6b-0c2d-44b0-9746-717bd8dcd14a
 
 	* **guid -[count]** -> Where count is an integer
 		* Provides the following results:
