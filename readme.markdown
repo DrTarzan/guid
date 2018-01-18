@@ -13,7 +13,6 @@
 use the following commands:
 
 	guid
-
 	* Provides the following results:
 		* New GUID
 		* ====================================
