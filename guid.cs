@@ -1,8 +1,5 @@
 ﻿class Program
 {
-    //För Kompliering
-    //%WINDIR%\Microsoft.NET\Framework\v2.0.50727\csc.exe guidgen.cs 
-
     static void Main(string[] args)
     {
         if (args != null && args.Length > 0)
@@ -16,6 +13,7 @@
                 System.Console.WriteLine("Examples:");
                 System.Console.WriteLine("\t> guid \t ...Gives one GUID");
                 System.Console.WriteLine("\t> guid -2 \t ...Gives two GUIDs and so on");
+                System.Console.WriteLine("\t> guid /2 \t ...Gives two GUIDs and so on");
             }
             else
             {
