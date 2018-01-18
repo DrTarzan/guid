@@ -8,7 +8,7 @@
 * Then copy the file compiled, guid.exe, to:
 	 - %WINDIR%\System32\
 				
-##USAGE				
+## USAGE				
 	..* Then you can generate new guides from the command prompt by:
 	use the following commands:
 		...guid
