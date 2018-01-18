@@ -15,8 +15,8 @@ use the following commands:
 	guid
 	* Provides the following results:
 		* New GUID
-		* ====================================
-		* 429bbba9-ad73-4374-abd2-4dc6e8f6da87
+		   ====================================
+		   429bbba9-ad73-4374-abd2-4dc6e8f6da87
 
 guid /[count] -> Where count is an integer
 
