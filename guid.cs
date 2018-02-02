@@ -58,7 +58,7 @@
 
     static void DoPrint()
     {
-        string guid = System.Guid.NewGuid().ToString();
+        string guid = System.Guid.NewGuid().ToString().ToUpper();
         System.Console.WriteLine(guid);
     }
 }
