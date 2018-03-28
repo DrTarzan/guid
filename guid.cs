@@ -1,5 +1,9 @@
-﻿class Program
+﻿using System;
+using System.Windows.Forms;
+
+class Program
 {
+    [STAThread]
     static void Main(string[] args)
     {
         if (args != null && args.Length > 0)
@@ -60,5 +64,6 @@
     {
         string guid = System.Guid.NewGuid().ToString().ToUpper();
         System.Console.WriteLine(guid);
+        Clipboard.SetText(guid);
     }
 }
