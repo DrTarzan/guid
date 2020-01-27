@@ -3,8 +3,8 @@
 ## COMPILATION
 * Open command prompt as administrator
 	* Locate yourself to the same folder as guid.cs
-	* Run the following command:
-		* %WINDIR%\Microsoft.NET\Framework\v2.0.50727\csc.exe guid.cs 
+	* Run the following command to complie to .exe:
+		* %WINDIR%\Microsoft.NET\Framework\v3.5\csc.exe guid.cs 
 * Then copy the file compiled, guid.exe, to:
 	* %WINDIR%\System32\
 	

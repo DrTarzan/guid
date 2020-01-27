@@ -46,14 +46,15 @@ class Program
                 catch
                 {
                     System.Console.WriteLine();
-                    System.Console.WriteLine("New GUID");
+                    System.Console.WriteLine("Error");
                     System.Console.WriteLine("====================================");
-                    DoPrint();
+                    System.Console.WriteLine("An error occured, please try again!");
                 }
             }
         }
         else
         {
+            System.Console.WriteLine();
             System.Console.WriteLine("New GUID");
             System.Console.WriteLine("====================================");
             DoPrint();
