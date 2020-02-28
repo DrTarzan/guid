@@ -6,7 +6,7 @@
 ## COMPILATION
 * Open command prompt as administrator
 	* Run Setup.ps1
-# OR DO IT MANUALLY
+### OR DO IT MANUALLY
 * Open command prompt as administrator
 	* Locate yourself to the same folder as guid.cs
 	* Run the following command to complie to .exe:
